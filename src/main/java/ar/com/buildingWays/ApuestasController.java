@@ -1,4 +1,4 @@
-package com.niupi.jesa;
+package ar.com.buildingWays;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;

@@ -1,4 +1,4 @@
-package com.niupi.jesa;
+package ar.com.buildingWays;
 
 public class Constantes {
 
