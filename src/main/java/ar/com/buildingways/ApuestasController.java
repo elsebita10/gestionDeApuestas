@@ -1,4 +1,4 @@
-package ar.com.buildingWays;
+package ar.com.buildingways;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;

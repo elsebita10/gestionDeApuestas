@@ -1,4 +1,4 @@
-package ar.com.buildingWays;
+package ar.com.buildingways;
 
 import java.util.ArrayList;
 import java.util.Arrays;

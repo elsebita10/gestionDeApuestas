@@ -1,4 +1,4 @@
-package ar.com.buildingWays;
+package ar.com.buildingways;
 
 public class Constantes {
 
